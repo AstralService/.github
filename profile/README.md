@@ -10,6 +10,7 @@
 </p>
 
 ### About
-Astral Services is a development organization that is dedicated to escaping the confines that bind us.
+Astral Services is a development organization that is dedicated to escaping the confines that bind us. We offer premium proxy sites such as Lucid, and resources for aspiring proxy developers and organizations.
 
 ### Projects
+
