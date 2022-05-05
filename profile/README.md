@@ -12,5 +12,5 @@
 ### About
 Astral Services is a development organization that is dedicated to escaping the confines that bind us. We offer premium proxy sites such as Lucid, and resources for aspiring proxy developers and organizations.
 
-![Astral Network's stats](https://github-readme-stats.vercel.app/api?username=AstralNetwork&show_icons=true&theme=monokai)
+[![Astral Network's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralService)](https://github.com/anuraghazra/github-readme-stats)
 
